@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true">
+  <defs>
+    <linearGradient id="commFlameHotGrad" x1="50%" y1="100%" x2="50%" y2="0%">
+      <stop offset="0%" stop-color="#ff4d4d" />
+      <stop offset="50%" stop-color="#ff6b3d" />
+      <stop offset="100%" stop-color="#ff8c42" />
+    </linearGradient>
+  </defs>
+  <g fill="url(#commFlameHotGrad)">
+    <ellipse cx="8.25" cy="15.4" rx="2.85" ry="9.35" transform="rotate(-24 8.25 15.4)" />
+    <ellipse cx="12" cy="14.15" rx="3.45" ry="10.85" />
+    <ellipse cx="15.75" cy="15.4" rx="2.85" ry="9.35" transform="rotate(24 15.75 15.4)" />
+  </g>
+</svg>
